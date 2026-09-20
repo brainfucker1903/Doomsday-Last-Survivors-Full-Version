@@ -285,4 +285,4 @@ This repository serves as the official landing page for Doomsday: Last Survivors
 **Get the most recent version of Doomsday: Last Survivors today!**
 
 ---
-**Last updated:** 2026-09-20 17:52:00 UTC
+**Last updated:** 2026-09-20 20:09:35 UTC
